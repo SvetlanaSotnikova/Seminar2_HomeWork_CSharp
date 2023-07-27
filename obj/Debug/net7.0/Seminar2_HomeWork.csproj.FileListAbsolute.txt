@@ -1,0 +1,15 @@
+C:\Users\sotni\OneDrive\Рабочий стол\GB\C#\Seminar2\Seminar2_HomeWork\obj\Debug\net7.0\Seminar2_HomeWork.csproj.AssemblyReference.cache
+C:\Users\sotni\OneDrive\Рабочий стол\GB\C#\Seminar2\Seminar2_HomeWork\obj\Debug\net7.0\Seminar2_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sotni\OneDrive\Рабочий стол\GB\C#\Seminar2\Seminar2_HomeWork\obj\Debug\net7.0\Seminar2_HomeWork.AssemblyInfoInputs.cache
+C:\Users\sotni\OneDrive\Рабочий стол\GB\C#\Seminar2\Seminar2_HomeWork\obj\Debug\net7.0\Seminar2_HomeWork.AssemblyInfo.cs
+C:\Users\sotni\OneDrive\Рабочий стол\GB\C#\Seminar2\Seminar2_HomeWork\obj\Debug\net7.0\Seminar2_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\sotni\OneDrive\Рабочий стол\GB\C#\Seminar2\Seminar2_HomeWork\bin\Debug\net7.0\Seminar2_HomeWork.exe
+C:\Users\sotni\OneDrive\Рабочий стол\GB\C#\Seminar2\Seminar2_HomeWork\bin\Debug\net7.0\Seminar2_HomeWork.deps.json
+C:\Users\sotni\OneDrive\Рабочий стол\GB\C#\Seminar2\Seminar2_HomeWork\bin\Debug\net7.0\Seminar2_HomeWork.runtimeconfig.json
+C:\Users\sotni\OneDrive\Рабочий стол\GB\C#\Seminar2\Seminar2_HomeWork\bin\Debug\net7.0\Seminar2_HomeWork.dll
+C:\Users\sotni\OneDrive\Рабочий стол\GB\C#\Seminar2\Seminar2_HomeWork\bin\Debug\net7.0\Seminar2_HomeWork.pdb
+C:\Users\sotni\OneDrive\Рабочий стол\GB\C#\Seminar2\Seminar2_HomeWork\obj\Debug\net7.0\Seminar2_HomeWork.dll
+C:\Users\sotni\OneDrive\Рабочий стол\GB\C#\Seminar2\Seminar2_HomeWork\obj\Debug\net7.0\refint\Seminar2_HomeWork.dll
+C:\Users\sotni\OneDrive\Рабочий стол\GB\C#\Seminar2\Seminar2_HomeWork\obj\Debug\net7.0\Seminar2_HomeWork.pdb
+C:\Users\sotni\OneDrive\Рабочий стол\GB\C#\Seminar2\Seminar2_HomeWork\obj\Debug\net7.0\Seminar2_HomeWork.genruntimeconfig.cache
+C:\Users\sotni\OneDrive\Рабочий стол\GB\C#\Seminar2\Seminar2_HomeWork\obj\Debug\net7.0\ref\Seminar2_HomeWork.dll
